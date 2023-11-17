@@ -1,5 +1,5 @@
 # VBsuspend
-Tiny Command-line tool to Suspend/Resume an app for reducing system usage.
+Tiny Command-line tool (size=7KB) to Suspend/Resume an app for reducing system usage.
 
 ## Usage:
 
